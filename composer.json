@@ -1,0 +1,13 @@
+{
+    "name": "ivan-ivakic/symfony-reports",
+    "type": "symfony-bundle",
+    "description": "Symfony bundle for configurable reports",
+    "keywords": ["php", "symfony", "reusable bundle", "reports"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Ivakic",
+            "email": "grglj1@gmail.com"
+        }
+    ]
+}
